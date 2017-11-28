@@ -1,5 +1,14 @@
 # node 실행
 
-http://forum.falinux.com/zbxe/index.php?document_srl=572572&mid=lecture_tip
+https://www.gitignore.io/
 
-http://blog.work6.kr/146
+
+
+
+# .gitignore 세팅
+
+https://www.gitignore.io/api/ruby%2Crails%2Csublimetext
+
+https://www.gitignore.io/ 
+
+http://cocomo.tistory.com/454
