@@ -58,6 +58,10 @@ User.create(name: "garbage", email: "garbage",
 irb(main):002:1* password: "garbage", password_confirmation: "garbage")
 
 
+# session & routers.rb
+
+https://www.railstutorial.org/book/basic_login
+
 -----------------------------------------------
 
 # (util) windows 10 화면분할 4
