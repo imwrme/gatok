@@ -6,12 +6,10 @@ permalink: /contact/
 
 <a href="mailto:comfortable.in.tech@gmail.com">feel free to email me~ </a>  
 
-<!-- 
+
 I would love to hear from you. Any query, any suggestion or feedback would be great! If you need a website, blog or portfolio site then please leave a message.
 
-
-
-<form id="contact-form" class="form-horizontal" action="https://getsimpleform.com/messages?form_api_token=b6d4be9b039b666b3311e1ddcbfb577c" method="POST" enctype="multipart/form-data">
+<form id="contact-form" class="form-horizontal" action="https://getsimpleform.com/messages?form_api_token=653ee5bade186450131a2aa7b0469f47" method="POST" enctype="multipart/form-data">
        <fieldset>
        
             <div class="form-group">
@@ -38,15 +36,12 @@ I would love to hear from you. Any query, any suggestion or feedback would be gr
          <input type="submit" class="btn btn-primary" value="Send" id="submit"/>
          </div>
          </div>
-        <input type="hidden" name='redirect_to' value="http://blog.webjeda.com/thank-you/" />
+        <input type="hidden" name='redirect_to' value="http://imwrme.github.io/thank-you/" />
     </fieldset>  
-</form>
-
-<!-- 
-This form is made functional by [SimpleForm](https://getsimpleform.com){: target="_blank"}. Read [How to create a form in Jekyll site](http://blog.webjeda.com/jekyll-contact-form/){: target="_blank"} to implement using formspree.
+</form> 
 
 
-<div id="fb-root"></div>
+<!-- <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
@@ -54,6 +49,6 @@ This form is made functional by [SimpleForm](https://getsimpleform.com){: target
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=1409800599270506";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
- -->
+ 
 
-<div class="fb-page" data-href="https://www.facebook.com/webjeda/" data-small-header="true" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/webjeda/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/webjeda/">WebJeda</a></blockquote></div> -->
+<div class="fb-page" data-href="https://www.facebook.com/webjeda/" data-small-header="true" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/webjeda/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/webjeda/">WebJeda</a></blockquote></div>  -->
