@@ -4,10 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-<a href="mailto:comfortable.in.tech@gmail.com">feel free to email me~ </a>  
-
-
-I would love to hear from you. Any query, any suggestion or feedback would be great! If you need a website, blog or portfolio site then please leave a message.
+feel free to email me~ 
 
 <form id="contact-form" class="form-horizontal" action="https://getsimpleform.com/messages?form_api_token=653ee5bade186450131a2aa7b0469f47" method="POST" enctype="multipart/form-data">
        <fieldset>
