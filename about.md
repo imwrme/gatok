@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about imwrme/
 ---
 <div class="mt50"></div>
 <!-- 
@@ -21,3 +21,7 @@ He is someone you shouldn't be messing with!
 Read [Webjeda Blog](http://blog.webjeda.com){: target="_blank"} for jekyll tutorials.  -->
 
 My useful commands are here...
+
+
+2018 ruby와 react 에 관심이 있음.
+2017 프론트엔드 개발 경험?? a little bit... 블로그 개설
